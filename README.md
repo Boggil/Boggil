@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tjrwns1217)(https://www.facebook.com/tjrwns1217)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tjrwns1217)](https://www.facebook.com/tjrwns1217)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdudwlwns@gmail.com)](mailto:ghdudwlwns@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/deep_shining_)(https://www.instagram.com/deep_shining_)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/deep_shining_)](https://www.instagram.com/deep_shining_)
 <!--
 **Boggil/Boggil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
