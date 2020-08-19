@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Choi SeokJun
+Hi. I'm front-end developer. 
+I develop using React. Recently I'm interested in TypeScript and Redux and will learn!.
 
 <div align=center>
   
