@@ -1,6 +1,6 @@
-### Choi SeokJun
-Hi. I'm front-end developer. 
-I develop using React. Recently I'm interested in TypeScript and Redux and will learn!.
+## Choi SeokJun
+#### Hi. I'm front-end developer. 
+#### I develop using React. Recently I'm interested in TypeScript and Redux and will learn!.
 
 <div align=center>
   
@@ -8,7 +8,6 @@ I develop using React. Recently I'm interested in TypeScript and Redux and will 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghdudwlwns@gmail.com)](mailto:ghdudwlwns@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/deep_shining_)](https://www.instagram.com/deep_shining_)
 </div>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boggil&layout=compact)](https://github.com/Boggil/github-readme-stats)
 <!--
 **Boggil/Boggil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
