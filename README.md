@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boggil&layout=compact)](https://github.com/Boggil/github-readme-stats)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoggil&count_bg=%2382D7BF&title_bg=%233F85C7&icon=sparkpost.svg&icon_color=%23D36A6A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align=center>
   
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tjrwns1217)](https://www.facebook.com/tjrwns1217)
